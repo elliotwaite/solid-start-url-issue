@@ -11,7 +11,7 @@ export default createHandler(() => (
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link
             rel="preload"
-            href={PoppinsRegularURL}
+            href="/fonts/Poppins-Regular.ttf"
             as="font"
             type="font/ttf"
             crossorigin=""
